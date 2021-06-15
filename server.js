@@ -14,7 +14,7 @@ const userData = {
   userId: "789789",
   password: "123456",
   name: "todo",
-  username: "todo",
+  username: "test@todolist.com",
   isAdmin: true
 };
 
